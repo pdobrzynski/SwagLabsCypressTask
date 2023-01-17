@@ -4,7 +4,7 @@
 
 ```diff
 ## clone this repo to a local directory
-git clone https://github.com/<your-username>/swag-labs-cypress-task.git
+git clone https://github.com/pdobrzynski/swag-labs-cypress-task.git
 
 ## cd into the cloned repo
 cd swag-labs-cypress-task
